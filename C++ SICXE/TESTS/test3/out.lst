@@ -1,0 +1,15 @@
+0000      BASHRC       START           0
+0000       FIRST        +LDB       #083E    6910083E
+                        BASE        083E
+0004                     STL        083E      174000
+0007                     LDA       @083E      024000
+0841                   CLEAR           A        B400
+0843                     LDX       #0000      050000
+0846                     LDA       #0005      010005
+0849                      TD        0855      E32009
+084C                     JEQ        0849      332FFA
+084F                    LDCH        083E      53AFEC
+0852	                  WD        0855      DF2000	
+0855       INDEV        BYTE   X'000001'      000001
+0858                    +LDA        1090    03101090
+                         END      BASHRC
