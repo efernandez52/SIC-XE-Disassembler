@@ -1,4 +1,0 @@
-0000      TESTXE       START           0
-0000       START         LDX       #0000      050000
-0003                     LDA        0006      032000
-                         END      TESTXE

@@ -1,9 +1,0 @@
-Symbol  Address Flags:
------------------------
-FIRST   000000  R
-
-Name    Lit_Const  Length Address:
-----------------------------------
-AVAR    X'94'      2      0002B7
-DEV     X'44'      2      0002B8
-CVAR    X'A5'      2      000E85
